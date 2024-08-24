@@ -1,8 +1,17 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant to-do application built using React.js. This app allows users to manage their daily tasks efficiently with features like adding, editing, and deleting tasks.
 
-Currently, two official plugins are available:
+Features
+Add Tasks: Easily add tasks to your to-do list.
+Edit Tasks: Update existing tasks with new information.
+Delete Tasks: Remove tasks that are no longer needed.
+Responsive Design: Fully responsive, works on all devices.
+Local Storage: Tasks are saved in the browser's local storage, so they persist even after refreshing the page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Technologies Used
+React.js: A JavaScript library for building user interfaces.
+CSS: Custom styling to create an attractive and user-friendly UI.
+JavaScript (ES6+): Modern JavaScript syntax and features.
+Local Storage: To save tasks locally.
