@@ -3,11 +3,10 @@
 A simple and elegant to-do application built using React.js. This app allows users to manage their daily tasks efficiently with features like adding, editing, and deleting tasks.
 
 # Features
-<h4>Add Tasks</h4>: Easily add tasks to your to-do list.<br>
+<h4>Add Tasks:</h4> Easily add tasks to your to-do list.<br>
 <h4>Edit Tasks:</h4> Update existing tasks with new information.<br>
 <h4>Delete Tasks:</h4> Remove tasks that are no longer needed.<br>
 <h4>Responsive Design:</h4> Fully responsive, works on all devices.<br>
-<h4>Local Storage:</h4> Tasks are saved in the browser's local storage, so they persist even after refreshing the page.<br>
 
 
 # Technologies Used
