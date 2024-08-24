@@ -14,4 +14,4 @@ Local Storage: Tasks are saved in the browser's local storage, so they persist e
 React.js: A JavaScript library for building user interfaces.<br>
 CSS: Custom styling to create an attractive and user-friendly UI.<br>
 JavaScript (ES6+): Modern JavaScript syntax and features.<br>
-Local Storage: To save tasks locally.
+
