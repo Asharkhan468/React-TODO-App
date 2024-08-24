@@ -1,0 +1,10 @@
+ul {
+    list-style: none;
+}
+
+i{
+    padding: 5px;
+}
+li{
+    gap: 20px;
+}
